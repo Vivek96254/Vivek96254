@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek96254
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
